@@ -1,3 +1,11 @@
+.idea
+venv
+__pycache__
+.DS_Store
+tests/outputs/
+tests/storage_client/outputs
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
